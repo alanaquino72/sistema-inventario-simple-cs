@@ -25,7 +25,7 @@ Aplicación de consola para gestionar un inventario básico en C#. Permite agreg
 
 Recomendado tener instalado el SDK de .NET. Para compilar y ejecutar:
 
-1. Desde la carpeta del proyecto, compila:
+1. Desde la carpeta del proyecto compila:
 
    ```bash
    dotnet build
