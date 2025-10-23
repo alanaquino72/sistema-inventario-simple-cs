@@ -61,7 +61,7 @@ Los precios se muestran con formato numérico y el símbolo de moneda.
 
 ## Autor
 
-**Alan Aquino**, estudiante de Ingeniería en Informática.
+Alan Aquino.
 
 ---
 
